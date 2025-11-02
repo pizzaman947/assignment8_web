@@ -1,0 +1,13 @@
+h1, h2, h5 {
+  font-weight: 600;
+}
+.navbar-brand {
+  font-weight: 700;
+}
+footer {
+  margin-top: 50px;
+}
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
